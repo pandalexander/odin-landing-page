@@ -1,0 +1,1 @@
+In this project, I will creating an entire web page from a design provided for me via The Odin Project curriculum. My skills in foundational HTML and CSS will be displayed through the completion of this project.
