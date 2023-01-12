@@ -19,6 +19,8 @@ body {
 
 .header__nav {
   list-style-type: none;
+  display: flex;
+  gap: 20px;
 }
 
 h1 {
