@@ -18,12 +18,16 @@ body {
 
 .header__nav {
   list-style-type: none;
-  font-size: 18px;
-  color: #e5e7eb;
 }
 
 h1 {
   font-size: 48px;
   font-weight: 800;
   color: #f9faf8;
+}
+
+.header__subtext,
+.header__nav {
+  font-size: 18px;
+  color: #e5e7eb;
 }
