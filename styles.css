@@ -49,3 +49,10 @@ h2 {
   font-weight: 800;
   color: #1f2937;
 }
+
+.round-square {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  border: 4px solid #3882f6;
+}
