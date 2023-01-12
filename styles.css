@@ -68,7 +68,6 @@ h2 {
 }
 
 .information__container {
-  border: 2px solid black;
   width: 820px;
   display: flex;
   justify-content: space-between;
