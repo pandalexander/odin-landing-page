@@ -33,3 +33,13 @@ h1 {
   font-weight: 300;
   color: #e5e7eb;
 }
+
+.placeholder {
+  color: white;
+  background-color: #c0c3c8;
+  width: 500px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
