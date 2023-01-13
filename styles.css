@@ -73,6 +73,21 @@ h1 {
   flex: 0 0 auto;
 }
 
+.header__button {
+  margin-top: 15px;
+  border: none;
+  color: #f9faf8;
+  background-color: #3882f6;
+  border-radius: 5px;
+  height: 40px;
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+
 h2 {
   font-size: 36px;
   font-weight: 800;
