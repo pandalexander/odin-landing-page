@@ -133,15 +133,33 @@ h2 {
 }
 
 .quote {
-  padding: 0 210px;
+  height: 430px;
   background-color: #e5e7eb;
-  padding: 135px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-container {
+  width: 780px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 blockquote {
   margin: 0;
-  padding: 0 210px;
+  padding: 0;
   font-size: 36px;
   font-style: italic;
   font-weight: 200;
+}
+
+cite {
+  margin-left: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 24px;
 }
