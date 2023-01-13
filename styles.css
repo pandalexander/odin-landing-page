@@ -4,6 +4,7 @@ body {
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
   font-family: "Roboto", sans-serif;
 }
 
@@ -212,4 +213,14 @@ cite {
   align-items: center;
   font-size: 18px;
   font-weight: 600;
+}
+
+.footer {
+  margin-top: auto;
+  height: 100px;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
