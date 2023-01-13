@@ -131,3 +131,17 @@ h2 {
   font-size: 18px;
   font-weight: 300;
 }
+
+.quote {
+  padding: 0 210px;
+  background-color: #e5e7eb;
+  padding: 135px 0;
+}
+
+blockquote {
+  margin: 0;
+  padding: 0 210px;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 200;
+}
