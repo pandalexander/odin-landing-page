@@ -31,7 +31,7 @@ body {
 }
 
 .header-container-two {
-  margin: 130px 0px;
+  margin: 120px 0px 130px 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
