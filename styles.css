@@ -92,6 +92,7 @@ h2 {
   font-size: 36px;
   font-weight: 800;
   color: #1f2937;
+  margin: 50px 0px 50px 0px;
 }
 
 .round-square {
@@ -102,7 +103,8 @@ h2 {
 }
 
 .information {
-  height: 500px;
+  padding: 0 210px;
+  margin-bottom: 120px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -124,6 +126,7 @@ h2 {
 }
 
 .information__item p {
+  margin: 11px auto 0 auto;
   width: 160px;
   font-size: 18px;
   font-weight: 300;
