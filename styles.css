@@ -30,10 +30,29 @@ body {
   justify-content: space-between;
 }
 
+.header-container-two {
+  margin: 130px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  flex: 0 1 450px;
+}
+
 h1 {
   font-size: 48px;
   font-weight: 800;
   color: #f9faf8;
+  margin: 0;
+}
+
+.header__subtext {
+  margin: 0;
 }
 
 .header__subtext,
@@ -51,6 +70,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex: 0 0 auto;
 }
 
 h2 {
